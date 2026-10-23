@@ -1,5 +1,3 @@
-# End-to-End-ETL-Data-Pipeline
-etl-banking-pipeline
 # 🏦 End-to-End Banking ETL Pipeline & Data Warehouse (BRIMO & QRIS Analytics)
 
 ## 📌 Project Overview
